@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2005
+VisualStudioVersion = 15.0.27101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.Client.Desktop", "src\MyShuttle.Client.Desktop\MyShuttle.Client.Desktop.csproj", "{1919B146-9D43-4FBC-A60B-E0272BCA54EC}"
 EndProject
@@ -22,7 +22,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.Client.SharedLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.SettingsLibrary", "MyShuttle.SettingsLibrary\MyShuttle.SettingsLibrary.csproj", "{9C02ECED-AF6A-42EC-A6CD-E32C5CC04449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttleWebTests", "..\..\..\vs-diag\vs-diag-samples\MyShuttle\MyShuttleWebTests\MyShuttleWebTests.csproj", "{4A81BE1E-86FB-4BE9-B4B7-0100C9865AF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttleWebTests", "MyShuttleWebTests\MyShuttleWebTests.csproj", "{4A81BE1E-86FB-4BE9-B4B7-0100C9865AF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
